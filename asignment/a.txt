@@ -1,0 +1,3 @@
+/home/mahannee/empid-1017/shell_scripting.sh/file_op.sh
+/home/mahannee/empid/file_op.sh
+

@@ -1,0 +1,6 @@
+6:((num++))
+7:echo $num > $file
+10:((num++))
+11:echo $num >> $file
+13:num=`cat $file`
+14:echo $num
